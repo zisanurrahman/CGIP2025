@@ -1,6 +1,7 @@
 # CIMPLE-Seq: Exploring Chemical-Genetic Interactions in *Burkholderia cenocepacia* K56-2
 
 This repository contains the data analysis scripts and a Shiny web application developed to explore the chemical-genetic interaction profiles of *Burkholderia cenocepacia* K56-2 essential gene knockdown mutants. The interaction profiles were generated using the **CIMPLE-Seq** (CRISPRi-based Interaction Mapping via Pooled Library Enrichment Sequencing) approach.
+The interactive Shiny app can be accessed here: https://zisanurrahman.shinyapps.io/CGIP2025/
 
 > 📌 Reference:  
 > **Rahman ASMZ et al.** (2024). *Rationally designed pooled CRISPRi-seq uncovers an inhibitor of bacterial peptidyl-tRNA hydrolase*.  
